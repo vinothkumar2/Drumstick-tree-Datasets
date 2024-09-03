@@ -4,7 +4,7 @@
 
 The **Moringa Oleifera Nutritional Dataset** provides a collection of randomly generated samples representing the nutritional values of the Moringa oleifera plant, commonly known as the "drumstick tree" or "miracle tree." This dataset is intended for educational, research, and data analysis purposes.
 
-The dataset contains 100 samples with various nutritional values such as protein, vitamins, minerals, and fiber content typically found in Moringa oleifera. The values are generated within realistic ranges to reflect the plant's nutrient density and health benefits.
+The dataset contains 10000 samples with various nutritional values such as protein, vitamins, minerals, and fiber content typically found in Moringa oleifera. The values are generated within realistic ranges to reflect the plant's nutrient density and health benefits.
 
 ## Dataset Description
 
